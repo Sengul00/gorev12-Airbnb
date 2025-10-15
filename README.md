@@ -13,7 +13,7 @@ Uygulama, ilanları listeler, ilan detaylarını gösterir, yeni ilan eklemeye v
 - **TypeScript:** Güvenli ve ölçeklenebilir bir kod tabanı için güçlü tip kontrolü.
 - **İkon Entegrasyonu:** `react-icons/fa6` paketi ile modern ikon kullanımı.
 
-## 🚀 Hızlı Başlangıç
+```## 🚀 Hızlı Başlangıç
 
 Bu projeyi yerel bilgisayarınıza klonlamak ve çalıştırmak için aşağıdaki adımları izleyin.
 
@@ -64,7 +64,7 @@ Bu projenin geliştirilmesinde kullanılan temel teknolojiler ve kütüphaneler:
 📁 Klasör Yapısı
 Projenin temel bileşenleri ve yapısal öğeleri src klasöründe yer alır:
 
-```src/
+src/
 ├── api/             # API bağlantısı (Axios instance)
 ├── components/
 │   ├── Lists.tsx    # İlanları listeleyen sayfa (GET)
