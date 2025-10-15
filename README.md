@@ -64,7 +64,7 @@ Bu projenin geliştirilmesinde kullanılan temel teknolojiler ve kütüphaneler:
 📁 Klasör Yapısı
 Projenin temel bileşenleri ve yapısal öğeleri src klasöründe yer alır:
 
-src/
+```src/
 ├── api/             # API bağlantısı (Axios instance)
 ├── components/
 │   ├── Lists.tsx    # İlanları listeleyen sayfa (GET)
@@ -74,7 +74,7 @@ src/
 │   └── Home.tsx     # Anasayfa
 ├── main.tsx         # Router ve TypeScript konfigürasyonu
 ├── index.css        # Tailwind CSS importları
-└── ... (diğer dosyalar)
+└── ... (diğer dosyalar)```
 🌐 GitHub
 Projenin GitHub Sayfası
 
