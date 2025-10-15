@@ -23,8 +23,8 @@ Bu projeyi yerel bilgisayarınıza klonlamak ve çalıştırmak için aşağıda
 
 bash
 # Projeyi klonla
-git clone [GITHUB_DEPO_ADRESİNİZ]
-cd [PROJE-ADI]
+git clone https://github.com/Sengul00/gorev12-Airbnb.git
+cd gorev12-Airbnb
 
 # Gerekli paketleri yükle
 npm install
