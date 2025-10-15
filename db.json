@@ -1,0 +1,55 @@
+{
+  "homes": [
+    {
+      "id": "1",
+      "title": "Cozy Downtown Loft",
+      "description": "Modern loft in the heart of downtown with stunning city views.",
+      "pricePerNight": "120",
+      "location": "İstanbul, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2340",
+      "guests": "2",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "amenities": [
+        "WiFi",
+        "Kitchen",
+        "Air Conditioning",
+        "Workspace"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Beachfront Villa",
+      "description": "Modern loft in the heart of downtown with stunning city views.",
+      "pricePerNight": "350",
+      "location": "Antalya, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhvbWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=700",
+      "guests": "8",
+      "bedrooms": "4",
+      "bathrooms": "3",
+      "amenities": [
+        "WiFi",
+        "Kitchen",
+        "Air Conditioning",
+        "Workspace"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Mountain Cabin Retreat",
+      "description": "Modern loft in the heart of downtown with stunning city views.",
+      "pricePerNight": "90",
+      "location": "Bolu, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG9tZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=700",
+      "guests": "4",
+      "bedrooms": "2",
+      "bathrooms": "1",
+      "amenities": [
+        "WiFi",
+        "Kitchen",
+        "Air Conditioning",
+        "Workspace"
+      ]
+    }
+  ]
+}
